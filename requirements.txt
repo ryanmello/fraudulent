@@ -1,1 +1,3 @@
 torch==2.9.0
+pandas
+kaggle
